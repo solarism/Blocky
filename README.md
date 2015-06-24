@@ -1,2 +1,2 @@
 # Blocky
-DET Website Blocker
+DET Website Blocking Userscript
