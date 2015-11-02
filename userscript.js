@@ -18,5 +18,5 @@ if(url.indexOf("http://appserver.det.nsw.edu.au/bfp/action/blocksf?actionreason=
     blocked = true;
 } else {
     document.title = "403 Denied";
-    window.open("http://appserver.det.nsw.edu.au/bfp/action/blocksf?actionreason=by-category&username=qwgsr&requestedurl="+host+"&categorydescriptionlist=Suspicious&pn=","_self");
+    window.open("http://appserver.det.nsw.edu.au/bfp/action/blocksf?actionreason=by-category&username=solarism&requestedurl="+host+"&categorydescriptionlist=none&pn=","_self");
 }
