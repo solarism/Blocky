@@ -3,7 +3,7 @@
 // @namespace    https://github.com/qwgsr/Blocky
 // @version      0.1
 // @description  DET Website Blocking Userscript
-// @author       qwgsr
+// @author       solarism
 // @match        http*://*/*
 // @grant        none
 // ==/UserScript==
